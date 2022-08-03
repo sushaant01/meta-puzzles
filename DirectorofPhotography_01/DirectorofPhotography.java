@@ -1,4 +1,4 @@
-package DirectorofPhotography;
+package DirectorofPhotography_01;
 
 public class DirectorofPhotography {
     
