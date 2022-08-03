@@ -1,7 +1,7 @@
 // Write any import statements here
 import java.util.*;
 
-class Solution {
+class Cafeteria {
   
     public static void main(String[] args) {
         long N = 15;
